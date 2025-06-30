@@ -19,11 +19,10 @@ A modern blog application built using **React** and **GraphQL**, featuring dynam
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js
-- **Data**: GraphQL (Client: Apollo or urql)
+- **Data**: GraphQL (Client: Apollo)
 - **Routing**: React Router
 - **State Management**: useState / useEffect / Context API
-- **Styling**: CSS / SCSS / Tailwind (بسته به کاری که انجام دادی)
-- **Deployment**: Vercel / Netlify / GH Pages
+- **Styling**: CSS 
 
 ---
 
