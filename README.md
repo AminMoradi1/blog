@@ -10,7 +10,7 @@ A modern blog application built using **React** and **GraphQL**, featuring dynam
 - 👤 Author profile pages with bio + their posts
 - 🔎 Data managed with GraphQL queries
 - ⚡ Clean component structure with reusable UI
-- 🧭 Routing with React Router (or Next if you upgrade)
+- 🧭 Routing with React Router 
 - 🗂️ Organized data fetching and rendering
 - 🎨 Fully responsive and modern design
 
